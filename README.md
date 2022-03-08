@@ -12,4 +12,4 @@
 
 세번째 안녕
 
-<img src="./imgs/bullet.jpg">
+![ex_screenshot](./imgs/bullet.jpg)
