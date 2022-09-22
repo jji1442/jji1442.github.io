@@ -34,13 +34,13 @@
   <img src="./imgs/image01.png">
   <img src="./imgs/image02.png">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [![](./imgs/image01.png)](https://www.youtube.com/watch?v=bVHayKXTP10)
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+![그림](./imgs/mainImage.png)
 
 <br><br>
 
