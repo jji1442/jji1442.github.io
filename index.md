@@ -31,8 +31,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./imgs/image01.jpg">
-  <img src="./imgs/image02.jpg">
+  <img src="./imgs/image01.png">
+  <img src="./imgs/image02.png">
 - 동영상
   [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
