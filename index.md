@@ -40,7 +40,7 @@
 
 # [대표 이미지]
 
-![그림](./imgs/mainImage.png)
+![그림](./imgs/mainImage.png width = 100)
 
 <br><br>
 
