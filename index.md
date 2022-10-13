@@ -67,7 +67,7 @@
 # [대표 이미지]
 
 - 대표 이미지
-    - <img src="./imgs/mainImage.png" width = 300>
+    - <img src="./imgs/mainImage.jpg" width = 300>
 
 <br><br>
 
