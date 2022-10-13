@@ -51,7 +51,8 @@
 # [관련 이미지 & 동영상]
 
 - 이미지
-  - <img src="./imgs/image01.png" width = 300><img src="./imgs/image02.png" width = 300>
+    <img src="./imgs/image01.png" width = 300>
+    <img src="./imgs/image02.png" width = 300>
   
 - 동영상
   - https://www.youtube.com/watch?v=bVHayKXTP10
