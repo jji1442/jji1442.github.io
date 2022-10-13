@@ -22,7 +22,7 @@
 
 # [컨셉]
 
-## 메인 컨셉 : 성장
+## 메인 컨셉: 성장
 
 - 캐릭터가 성장함에 따라 stage가 증가한다.(치명타 확률이 0%일 때)
 
@@ -61,7 +61,7 @@
 # [대표 이미지]
 
 - 대표 이미지
-  <img src="./imgs/mainImage.png" width = 300>
+    - <img src="./imgs/mainImage.png" width = 300>
 
 <br><br>
 
