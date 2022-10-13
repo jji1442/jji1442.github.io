@@ -54,7 +54,7 @@
   <img src="./imgs/image01.png" width = 300>
   <img src="./imgs/image02.png" width = 300>
 - 동영상
-  <a href=https://www.youtube.com/watch?v=bVHayKXTP10>https://www.youtube.com/watch?v=bVHayKXTP10<a>
+  https://www.youtube.com/watch?v=bVHayKXTP10
 
 <br><br>
 
