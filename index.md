@@ -59,8 +59,7 @@
 <br><br>
 
 # [대표 이미지]
-
-![그림](./imgs/mainImage.png)
+<img src="./imgs/mainImage.png" width = 300>
 
 <br><br>
 
