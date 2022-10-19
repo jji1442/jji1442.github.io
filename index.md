@@ -135,9 +135,10 @@
 # [게임 시스템 디자인]
 
 ## 1. 게임 오브젝트 분해
+
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|전사(wrrior)<img src="./imgs/indexImage.png" width="500">|
+|1|전사(wrrior)|| |
 |2|궁수(archer)| |
 |3|공격형_마법사(aggressive_wizard))| |
 |4|지원형_마법사(utility_wizard)| |
