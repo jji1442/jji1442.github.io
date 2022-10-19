@@ -133,15 +133,14 @@
 <br><br>
 
 # [게임 시스템 디자인]
-
 ## 1. 게임 오브젝트 분해
 캐릭터 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|전사(wrrior)| |
-|2|궁수(archer)| |
-|3|공격형_마법사(aggressive_wizard)| |
-|4|지원형_마법사(utility_wizard)| |
+|1|전사(wrrior)|<img src="./imgs/wrrior.png" width = 300>|
+|2|궁수(archer)|<img src="./imgs/archer.png" width = 100>|
+|3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 100>|
+|4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 100>|
 
 <br>
 
@@ -149,33 +148,33 @@ UI <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
 |5|스테이지별 배경||
-|6|재화(gold)||
-|7|가방(package)||
-|8|보스_타이머(boss_timer)||
-|9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)||
+|6|재화(gold)|<img src="./imgs/gold.png" width = 100>|
+|7|가방(package)|<img src="./imgs/package.png" width = 100>|
+|8|보스_타이머(boss_timer)|<img src="./imgs/boss_timer.png" width = 100>|
+|9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/tab.png" width = 100>|
 
 <br>
 
 아이템 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|10|폭탄종류 - 빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄(boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple)| |
-|11|물약1 종류 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
-|12|물약2 종류 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
+|10|폭탄종류 - 빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄(boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple)|<img src="./imgs/boom.png" width = 100>|
+|11|물약1 종류 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)|<img src="./imgs/potion1.png" width = 100>|
+|12|물약2 종류 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)|<img src="./imgs/potion2.png" width = 100>|
 
 <br>
 
 적 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|13|골렘(golem)| |
-|14|철_골렘(iron_golem)| |
-|15|미니_슬라임(mini_slime)| |
-|16|슬라임(slime)| |
-|17|나비(butterfly)| |
-|18|몽환나비(dreamy_butterfly)| |
-|19|사신(grim_reaper)| |
-|20|데스킹(king_of_death)| |
+|13|골렘(golem)|<img src="./imgs/golem.png" width = 100>|
+|14|철_골렘(iron_golem)|<img src="./imgs/iron_golem.png" width = 100>|
+|15|미니_슬라임(mini_slime)|<img src="./imgs/mini_slime.png" width = 100>|
+|16|슬라임(slime)|<img src="./imgs/slime.png" width = 100>|
+|17|나비(butterfly)|<img src="./imgs/butterfly.png" width = 100>|
+|18|몽환나비(dreamy_butterfly)|<img src="./imgs/dreamy_butterfly.png" width = 100>|
+|19|사신(grim_reaper)|<img src="./imgs/grim_reaper.png" width = 100>|
+|20|데스킹(king_of_death)|<img src="./imgs/king_of_death.png" width = 100>|
 
 <br>
 
