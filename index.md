@@ -150,4 +150,4 @@
 |6|재화(gold)| |
 |7|가방(package)| |
 |8|보스_타이머(boss_timer)| |
-|9|하단탭 \n 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭 \n (tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/image02.png" width = 300>|
+|9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/image02.png" width = 300>|
