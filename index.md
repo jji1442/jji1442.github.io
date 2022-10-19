@@ -154,7 +154,7 @@ UI <br>
 |8|보스_타이머(boss_timer)||
 |9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)||
 
-<br><br>
+<br>
 
 아이템 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
@@ -163,7 +163,7 @@ UI <br>
 |2|물약 종류1 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
 |3|물약 종류2 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
 
-<br><br>
+<br>
 
 적 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
@@ -176,15 +176,6 @@ UI <br>
 |4|몽환나비(dreamy_butterfly)| |
 |3|사신(grim_reaper)| |
 |4|데스킹(king_of_death)| |
-
-<br><br>
-
-|속성|영문 명칭|설명|
-|:----:|:----:|:----:|
-||||
-||||
-||||
-||||
 
 <br><br>
 
