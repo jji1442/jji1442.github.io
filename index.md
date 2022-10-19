@@ -137,10 +137,10 @@
 캐릭터 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|전사(wrrior)|<img src="./imgs/wrrior.png" width = 150>|
-|2|궁수(archer)|<img src="./imgs/archer.png" width = 150>|
-|3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 150>|
-|4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 150>|
+|1|전사(wrrior)|<img src="./imgs/wrrior.png" width = 100>|
+|2|궁수(archer)|<img src="./imgs/archer.png" width = 100>|
+|3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 100>|
+|4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 100>|
 
 <br>
 
@@ -148,10 +148,10 @@ UI <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
 |5|스테이지별 배경||
-|6|재화(gold)|<img src="./imgs/gold.png" width = 150>|
-|7|가방(package)|<img src="./imgs/package.png" width = 150>|
+|6|재화(gold)|<img src="./imgs/gold.png" width = 100>|
+|7|가방(package)|<img src="./imgs/package.png" width = 100>|
 |8|보스_타이머(boss_timer)|<img src="./imgs/boss_timer.png" width = 150>|
-|9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/tab.png" width = 150>|
+|9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/tab.png" width = 100>|
 
 <br>
 
