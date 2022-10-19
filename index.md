@@ -52,7 +52,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지
-    - <img src="./imgs/image01.png" width = 200><img src="./imgs/image02.png" width = 200>
+    - <img src="./imgs/image01.png" width = 250><img src="./imgs/image02.png" width = 250>
   
 - 동영상
     - https://www.youtube.com/watch?v=bVHayKXTP10
@@ -63,7 +63,7 @@
 # [대표 이미지]
 
 - 대표 이미지
-    - <img src="./imgs/mainImage.jpg" width = 200>
+    - <img src="./imgs/mainImage.jpg" width = 250>
 
 <br><br>
 
@@ -137,10 +137,10 @@
 캐릭터 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|전사(wrrior)|<img src="./imgs/wrrior.png" width = 100>|
-|2|궁수(archer)|<img src="./imgs/archer.png" width = 100>|
-|3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 100>|
-|4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 100>|
+|1|전사(wrrior)|<img src="./imgs/wrrior.png" width = 150>|
+|2|궁수(archer)|<img src="./imgs/archer.png" width = 150>|
+|3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 150>|
+|4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 150>|
 
 <br>
 
