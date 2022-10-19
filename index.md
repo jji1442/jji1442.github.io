@@ -151,3 +151,14 @@
 |7|가방(package)| |
 |8|보스_타이머(boss_timer)| |
 |9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/image02.png" width = 300>|
+
+<br><br>
+
+|연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|폭탄종류 - 빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄(boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple)| |
+|2|물약 종류1 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
+|3|물약 종류2 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
+
+
+
