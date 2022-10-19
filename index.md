@@ -51,10 +51,10 @@
 
 # [관련 이미지 & 동영상]
 
-## 1. 이미지
+- 1. 이미지
     - <img src="./imgs/image01.png" width = 250><img src="./imgs/image02.png" width = 250>
   
-## 2. 동영상
+- 2. 동영상
     - https://www.youtube.com/watch?v=bVHayKXTP10
 
 <br><br>
