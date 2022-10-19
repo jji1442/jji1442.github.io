@@ -154,7 +154,3 @@
 |8|지원형_마법사(utility_wizard)| |
 |5|설정(setting)| |
 |6|보스_타이머(boss_timer)| |
-|7|하단탭
-성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭
-(tab_growth, tab_player, tab_item, tab_store, tab_boss)| |
-|:----:|:----:|:----:|
