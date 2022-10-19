@@ -150,7 +150,7 @@ UI <br>
 |5|스테이지별 배경||
 |6|재화(gold)|<img src="./imgs/gold.png" width = 100>|
 |7|가방(package)|<img src="./imgs/package.png" width = 100>|
-|8|보스_타이머(boss_timer)|<img src="./imgs/boss_timer.png" width = 150>|
+|8|보스_타이머(boss_timer)|<img src="./imgs/boss_timer.png" width = 100>|
 |9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_player, tab_item, tab_store, tab_boss)|<img src="./imgs/tab.png" width = 100>|
 
 <br>
