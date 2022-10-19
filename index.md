@@ -135,7 +135,7 @@
 # [게임 시스템 디자인]
 
 ## 1. 게임 오브젝트 분해
-- 캐릭터 <br>
+캐릭터 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
 |1|전사(wrrior)| |
@@ -159,23 +159,23 @@ UI <br>
 아이템 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|폭탄종류 - 빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄(boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple)| |
-|2|물약 종류1 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
-|3|물약 종류2 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
+|10|폭탄종류 - 빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄(boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple)| |
+|11|물약 종류1 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
+|12|물약 종류2 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
 
 <br>
 
 적 <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|골렘(golem)| |
-|2|철_골렘(iron_golem)| |
-|3|미니_슬라임(mini_slime)| |
-|4|슬라임(slime)| |
-|3|나비(butterfly)| |
-|4|몽환나비(dreamy_butterfly)| |
-|3|사신(grim_reaper)| |
-|4|데스킹(king_of_death)| |
+|13|골렘(golem)| |
+|14|철_골렘(iron_golem)| |
+|15|미니_슬라임(mini_slime)| |
+|16|슬라임(slime)| |
+|17|나비(butterfly)| |
+|18|몽환나비(dreamy_butterfly)| |
+|19|사신(grim_reaper)| |
+|20|데스킹(king_of_death)| |
 
 <br><br>
 
