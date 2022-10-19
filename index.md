@@ -51,10 +51,10 @@
 
 # [관련 이미지 & 동영상]
 
-- 1. 이미지
+- [이미지]
     - <img src="./imgs/image01.png" width = 250><img src="./imgs/image02.png" width = 250>
   
-- 2. 동영상
+- [동영상]
     - https://www.youtube.com/watch?v=bVHayKXTP10
 
 <br><br>
@@ -87,7 +87,7 @@
 
 ## 2. 메커니즘
 
-[도전 과제]
+도전 과제
 
 - 노말 스테이지를 통해 재화를 모아 캐릭터를 구매 및 성장하라.
 - 제한 시간 안에 보스 스테이지의 보스를 물리쳐라.
