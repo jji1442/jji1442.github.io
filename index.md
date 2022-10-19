@@ -160,8 +160,8 @@ UI <br>
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
 |10|폭탄종류 - 빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄(boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple)| |
-|11|물약 종류1 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
-|12|물약 종류2 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
+|11|물약1 종류 - 빨간색_물약1, 노란색_물약1, 보라색_물약1(potion1_red, potion1_yellow, potion1_purple)| |
+|12|물약2 종류 - 분홍색_물약2, 연노란색_물약2(potion2_pink, potion2_lightYellow)| |
 
 <br>
 
