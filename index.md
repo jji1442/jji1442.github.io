@@ -140,7 +140,7 @@
 |:----:|:----:|:----:|
 |1|전사(wrrior)| |
 |2|궁수(archer)| |
-|3|공격형_마법사(aggressive_wizard))| |
+|3|공격형_마법사(aggressive_wizard)| |
 |4|지원형_마법사(utility_wizard)| |
 
 <br>
