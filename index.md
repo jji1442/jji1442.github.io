@@ -47,10 +47,11 @@
 # [관련 이미지 & 동영상]
 
 [이미지]
+- Tap Titans2
 - <img src="./imgs/image01.png" width = 250><img src="./imgs/image02.png" width = 250>
   
-- [동영상]
-    - https://www.youtube.com/watch?v=bVHayKXTP10
+[동영상]
+- https://www.youtube.com/watch?v=bVHayKXTP10
 
 <br><br>
 
