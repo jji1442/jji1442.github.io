@@ -572,5 +572,5 @@ UI <br>
 - 3) 하단탭 - 성장탭, 캐릭터탭, 아이템탭, 상점탭, 보스탭(100%)
 
 - 제작 결과
-<img src="./imgs/gameProject02.1.png" width = 150>
+<img src="./imgs/gameProject02.1.jpg" width = 150>
 <br>
