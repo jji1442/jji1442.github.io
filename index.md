@@ -165,6 +165,7 @@ UI <br>
 
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
+||고블린(goblin)|<img src="./imgs/goblin.jpg" width = 150>|||||
 |13|골렘(golem)|<img src="./imgs/golem.png" width = 150>|
 |14|철_골렘(iron_golem)|<img src="./imgs/iron_golem.png" width = 150>|
 |15|미니_슬라임(mini_slime)|<img src="./imgs/mini_slime.png" width = 150>|
