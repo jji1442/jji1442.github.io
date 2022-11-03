@@ -657,6 +657,6 @@ UI <br>
 
 ### 제작 결과
 
-<video src="./imgs/gameProject02.2.mp4">
+<video src="https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4">
 
 <br>
