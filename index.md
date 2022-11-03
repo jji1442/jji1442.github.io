@@ -656,7 +656,6 @@ UI <br>
 - 아래방향 버튼을 누를 경우, 창이 꺼진다.(100%)
 
 ### 제작 결과
-https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4
-<video src="https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4">
+<video src="https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4" width = 600>
 
 <br>
