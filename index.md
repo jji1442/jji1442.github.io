@@ -657,6 +657,6 @@ UI <br>
 
 ### 제작 결과
 
-<video src="./imgs/gameProject02.2.mp4" width = 600></video>
+<video src="./imgs/gameProject02.2.mp4"></video>
 
 <br>
