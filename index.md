@@ -741,7 +741,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/200952861-a2a10138-c801-471c-a7c1-6ff03eddc70c.mp4"></video>
+<video src="https://user-images.githubusercontent.com/101154999/200953925-7dc89dfb-1cfa-4c7b-8dd7-df28f160b5e9.mp4"></video>
 
 <br>
 
