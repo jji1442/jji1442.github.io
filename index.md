@@ -132,7 +132,7 @@
 
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|전사(wrrior)|<img src="./imgs/wrrior.png" width = 100>|
+|1|전사(warrior)|<img src="./imgs/wrrior.png" width = 100>|
 |2|궁수(archer)|<img src="./imgs/archer.png" width = 100>|
 |3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 100>|
 |4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 100>|
@@ -165,15 +165,15 @@ UI <br>
 
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
 |:----:|:----:|:----:|
-||고블린(goblin)|<img src="./imgs/goblin.jpg" width = 150>|||||
-|13|골렘(golem)|<img src="./imgs/golem.png" width = 150>|
-|14|철_골렘(iron_golem)|<img src="./imgs/iron_golem.png" width = 150>|
-|15|미니_슬라임(mini_slime)|<img src="./imgs/mini_slime.png" width = 150>|
-|16|슬라임(slime)|<img src="./imgs/slime.png" width = 150>|
-|17|나비(butterfly)|<img src="./imgs/butterfly.png" width = 150>|
-|18|몽환나비(dreamy_butterfly)|<img src="./imgs/dreamy_butterfly.png" width = 150>|
-|19|사신(grim_reaper)|<img src="./imgs/grim_reaper.png" width = 150>|
-|20|데스킹(king_of_death)|<img src="./imgs/king_of_death.png" width = 150>|
+|13|고블린(goblin)|<img src="./imgs/goblin.jpg" width = 150>|||||
+|14|골렘(golem)|<img src="./imgs/golem.png" width = 150>|
+|15|철_골렘(iron_golem)|<img src="./imgs/iron_golem.png" width = 150>|
+|16|미니_슬라임(mini_slime)|<img src="./imgs/mini_slime.png" width = 150>|
+|17|슬라임(slime)|<img src="./imgs/slime.png" width = 150>|
+|18|나비(butterfly)|<img src="./imgs/butterfly.png" width = 150>|
+|19|몽환나비(dreamy_butterfly)|<img src="./imgs/dreamy_butterfly.png" width = 150>|
+|20|사신(grim_reaper)|<img src="./imgs/grim_reaper.png" width = 150>|
+|21|데스킹(king_of_death)|<img src="./imgs/king_of_death.png" width = 150>|
 
 <br>
 
@@ -191,6 +191,7 @@ UI <br>
 <br>
 
 ## 3. 행동 뽑아 보기
+
 전사, 궁수, 공격형_마법사 <br>
 
 |행동|영문 명칭|설명|
