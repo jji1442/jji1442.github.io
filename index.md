@@ -284,7 +284,7 @@ UI <br>
 
 |속성|영문 명칭|설명|
 |:----:|:----:|:----:|
-|float|attack|적에게 입히는 피해량|
+|float|damage|적에게 입히는 피해량|
 |float|attackRate|적을 공격하는 주기|
 |int|attackRange|적을 공격할 수 있는 범위|
 |int|criticalProbability|적에게 치명타 공격할 수 있는 확률|
