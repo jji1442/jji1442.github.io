@@ -162,8 +162,6 @@
 |3|공격형_마법사(aggressive_wizard)|<img src="./imgs/wizard.png" width = 100>|
 |4|지원형_마법사(utility_wizard)|<img src="./imgs/wizard.png" width = 100>|
 
-<br>
-
 UI <br>
 
 |연번|오브젝트 이름(영문 이름)|오브젝트 이미지|
@@ -173,8 +171,6 @@ UI <br>
 |7|가방(package)|<img src="./imgs/package.png" width = 100>|
 |8|보스_타이머(boss_timer)|<img src="./imgs/boss_timer.png" width = 100>|
 |9|하단탭 - 성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭(tab_growth, tab_haracter, tab_item, tab_store, tab_boss)|<img src="./imgs/tab.png" width = 100>|
-
-<br>
 
 아이템 <br>
 
