@@ -48,11 +48,18 @@
 
 # [관련 이미지 & 동영상]
 
+## 관련 게임명
+
+- Tap Titans 2
+
+<br>
+
 ## 관련 이미지
 
-- Tap Titans2
-	- <img src="./imgs/image01.png" width = 250><img src="./imgs/image02.png" width = 250>
-  
+- <img src="./imgs/image01.png" width = 250><img src="./imgs/image02.png" width = 250>
+
+<br>
+
 ## 관련 동영상
 
 - https://www.youtube.com/watch?v=bVHayKXTP10
@@ -72,6 +79,8 @@
 ## 컨셉 기반
 
 - 노말 스테이지에서 적을 쓰러트리고 재화 및 아이템을 얻어 얻은 재화로 성장하여 정해진 시간 내에 보스 스테이지를 클리어한다.
+
+<br>
 
 ## 대표 이미지 기반
 
