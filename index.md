@@ -1,6 +1,10 @@
-# 게임명: 보스 러쉬(개발자: 장종익)
+# 게임명: 보스 러셔(개발자: 장종익)
 
 <br><br>
+
+
+https://user-images.githubusercontent.com/101154999/207738671-38cc211d-0abc-42e8-b5cc-9894c7cd82c5.mp4
+
 
 # 목차
 
