@@ -2,10 +2,6 @@
 
 <br><br>
 
-
-https://user-images.githubusercontent.com/101154999/207738671-38cc211d-0abc-42e8-b5cc-9894c7cd82c5.mp4
-
-
 # 목차
 
 1. [컨셉](#컨셉)
