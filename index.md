@@ -837,7 +837,7 @@ UI <br>
 <video src="https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4"></video>
 
 <br>
-----------------------------------------------------------------------------------
+
 ## 3주차 작업일정
 
 ### 게임화면 UI 버튼 상호작용 구현(2주차 미구현)
@@ -877,9 +877,7 @@ UI <br>
 
 ### 제작 결과
 
-
-
-
+<video src="https://user-images.githubusercontent.com/101154999/222303448-cb87c1be-0541-477c-b93e-bddd89991983.mp4"></video>
 
 <br>
 
