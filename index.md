@@ -877,7 +877,9 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/222302497-c0446e0c-8e26-4903-bd7e-46325285f56f.mp4"></video>
+
+
+
 
 <br>
 
@@ -927,7 +929,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/222302575-0a4e6c17-3823-41a6-ac2e-40cd04144a8c.mp4"></video>
+<video src="https://user-images.githubusercontent.com/101154999/222302497-c0446e0c-8e26-4903-bd7e-46325285f56f.mp4"></video>
 
 <br>
 
@@ -989,12 +991,13 @@ UI <br>
 
 ### 제작 결과
 
+<video src="https://user-images.githubusercontent.com/101154999/222302575-0a4e6c17-3823-41a6-ac2e-40cd04144a8c.mp4"></video>
+
 <br>
 
-----------------------------------------------------------------------------------
 ## 6주차 작업 일정
 
-###  공격 시스템 구현(4주차 미구현)
+### 공격 시스템 구현(4주차 미구현)
 
 [요구사항]
 
