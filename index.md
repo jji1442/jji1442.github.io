@@ -83,7 +83,6 @@
 ## 테마: 복수심은 원동력이 된다.
 
 - 복수심은 누군가를 이길 때나 자신의 목표를 달성할 때도 동기부여를 주기도 한다.
-- 따라서, 어떤 상황에서든 복수심은 삶의 원동력이 될 수 있다.
 
 ## 메인 컨셉: 성장
 
@@ -127,7 +126,7 @@
 
 ## 관련 동영상
 
-- https://www.youtube.com/watch?v=bVHayKXTP10
+<video src="https://user-images.githubusercontent.com/101154999/231504310-5830f437-f3e6-4718-9d21-a3cbd3aa7beb.mp4"></video>
 
 <br><br>
 
