@@ -126,7 +126,7 @@
 
 ## 관련 동영상
 
-<video src="https://user-images.githubusercontent.com/101154999/231504310-5830f437-f3e6-4718-9d21-a3cbd3aa7beb.mp4"></video>
+<video src="https://user-images.githubusercontent.com/101154999/231504708-07de010d-4cac-4731-bb39-fe8ba47400f4.mp4"></video>
 
 <br><br>
 
