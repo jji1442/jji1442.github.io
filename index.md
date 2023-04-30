@@ -255,7 +255,7 @@ UI <br>
 |:----:|:----:|:----:|
 |스테이지별 배경|background1~4|<img src="./imgs/backgroundEx.png" width = 100>|
 |재화|gold|<img src="./imgs/gold.png" width = 100>|
-|(수정)~~가방~~ 환생|~~package~~rebirth|<img src="./imgs/package.png" width = 100><img src="./imgs/rebirth.jpg" width = 100>|
+|(수정) ~~가방~~ 환생|~~package~~ rebirth|<img src="./imgs/package.png" width = 100><img src="./imgs/rebirth.jpg" width = 100>|
 |보스_타이머|boss_timer|<img src="./imgs/boss_timer.png" width = 100>|
 |성장탭, 플레이어탭, 아이템탭, 상점탭, 보스탭|tab_growth, tab_haracter, tab_item, tab_store, tab_boss|<img src="./imgs/tab.png" width = 100>|
 
@@ -263,7 +263,7 @@ UI <br>
 
 |오브젝트 이름|영문 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|(삭제)~~빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄~~|boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple|<img src="./imgs/boom.png" width = 250>|
+|(삭제) ~~빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄~~|boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple|<img src="./imgs/boom.png" width = 250>|
 |빨간색_물약1, 노란색_물약1, 파란색_물약1|potion1_red, potion1_yellow, potion1_blue|<img src="./imgs/potion1.png" width = 250>|
 |주황색_물약2, 보라색_물약2|potion2_orange, potion2_purple|<img src="./imgs/potion2.png" width = 250>|
 
