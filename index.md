@@ -253,7 +253,7 @@ UI <br>
 
 |오브젝트 이름|영문 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|스테이지별 배경||<img src="./imgs/backgroundEx.png" width = 100>|
+|스테이지별 배경|background1~4|<img src="./imgs/backgroundEx.png" width = 100>|
 |재화|gold|<img src="./imgs/gold.png" width = 100>|
 |가방|package|<img src="./imgs/package.png" width = 100>|
 |보스_타이머|boss_timer|<img src="./imgs/boss_timer.png" width = 100>|
