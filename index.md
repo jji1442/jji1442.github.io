@@ -263,7 +263,7 @@ UI <br>
 
 |오브젝트 이름|영문 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|--빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄--|boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple|<img src="./imgs/boom.png" width = 250>|
+|(삭제)~~빨간색_폭탄, 주황색_폭탄, 노란색_폭탄, 초록색_폭탄, 파란색_폭탄, 남색_폭탄, 보라색_폭탄~~|boom_red, boom_orange, boom_yellow, boom_green, boom_blue, boom_navy, boom_purple|<img src="./imgs/boom.png" width = 250>|
 |빨간색_물약1, 노란색_물약1, 파란색_물약1|potion1_red, potion1_yellow, potion1_blue|<img src="./imgs/potion1.png" width = 250>|
 |주황색_물약2, 보라색_물약2|potion2_orange, potion2_purple|<img src="./imgs/potion2.png" width = 250>|
 
