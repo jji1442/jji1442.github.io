@@ -966,7 +966,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4"></video>
+https://user-images.githubusercontent.com/101154999/199627728-b430c022-1b4f-4b07-b3e4-f29c54e5616f.mp4
 
 <br>
 
@@ -1009,7 +1009,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/222303448-cb87c1be-0541-477c-b93e-bddd89991983.mp4"></video>
+https://user-images.githubusercontent.com/101154999/222303448-cb87c1be-0541-477c-b93e-bddd89991983.mp4
 
 <br>
 
@@ -1059,7 +1059,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/222304397-41bb99ce-9616-4d9c-8060-c6aa91042c37.mp4"></video>
+https://user-images.githubusercontent.com/101154999/222304397-41bb99ce-9616-4d9c-8060-c6aa91042c37.mp4
 
 <br>
 
@@ -1121,7 +1121,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/222304334-9193fe89-b3e7-4ff8-8c5d-29618668463e.mp4"></video>
+https://user-images.githubusercontent.com/101154999/222304334-9193fe89-b3e7-4ff8-8c5d-29618668463e.mp4
 
 <br>
 
@@ -1193,7 +1193,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://user-images.githubusercontent.com/101154999/219369623-69287220-386b-4a19-b5c8-94a5231a5976.mp4"></video>
+https://user-images.githubusercontent.com/101154999/219369623-69287220-386b-4a19-b5c8-94a5231a5976.mp4
 
 <br><br>
 
@@ -1272,7 +1272,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://github.com/jji1442/jji1442.github.io/assets/101154999/9eefef23-5085-442d-937c-9a9dd689e51d"></video>
+https://github.com/jji1442/jji1442.github.io/assets/101154999/9eefef23-5085-442d-937c-9a9dd689e51d
 
 <br>
 
