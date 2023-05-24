@@ -1322,7 +1322,7 @@ UI <br>
 
 ### 제작 결과
 
-<video src="https://github.com/jji1442/jji1442.github.io/assets/101154999/124fce0e-2161-4de4-9aad-072a8e1d93c6"></video>
+https://github.com/jji1442/jji1442.github.io/assets/101154999/124fce0e-2161-4de4-9aad-072a8e1d93c6
 
 <br>
 
