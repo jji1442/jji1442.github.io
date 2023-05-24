@@ -1,5 +1,5 @@
 # Boss Rusher(개발자: 장종익)
-최근 수정일: 23.05.15
+최근 수정일: 23.05.24
 
 <br><br>
 
@@ -1316,7 +1316,7 @@ UI <br>
 
 ### 제작 결과
 
-
+<video src="https://github.com/jji1442/jji1442.github.io/assets/101154999/124fce0e-2161-4de4-9aad-072a8e1d93c6"></video>
 
 <br>
 
