@@ -1270,7 +1270,7 @@ UI <br>
 
 ### 제작 결과
 
-
+<video src="https://github.com/jji1442/jji1442.github.io/assets/101154999/9eefef23-5085-442d-937c-9a9dd689e51d"></video>
 
 <br>
 
