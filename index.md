@@ -380,7 +380,6 @@ UI <br>
 |int|accuracy|적중도|
 |int|criticalProbability|치명타 확률|
 |float|criticalDamage|치명타 피해량|
-|string|state|상태|
 
 지원형_마법사 <br>
 
