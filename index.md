@@ -129,8 +129,7 @@
 
 ## 관련 동영상
 
-<video src="https://user-images.githubusercontent.com/101154999/231504708-07de010d-4cac-4731-bb39-fe8ba47400f4.mp4"></video>
-
+https://user-images.githubusercontent.com/101154999/231504708-07de010d-4cac-4731-bb39-fe8ba47400f4.mp4
 <br><br>
 
 # [대표 이미지]
